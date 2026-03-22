@@ -28,3 +28,22 @@ This project analyzes AI job market data and investigates which factors influenc
 - Scikit-learn
 - Statsmodels
 - Jupyter Notebook
+- ## Results
+
+### Top Skills
+![Skills](Die top 15 gefragten Skills.png)
+
+### Salary distribution
+![Salary](Gehaltsverteilung.png)
+
+### Salary by experience and education
+![SalaryExp](Gehalt nach Erfahrung und Bildung.png)
+
+### Correlation matrix
+![Corr](Korrelatoinsmatrix.png)
+
+### Machine Learning Results
+![ML](ML Ergebnis.png)
+
+### Linear Regression Coefficients
+![Coef](Top 10 Linear Regression Coefficients.png)
