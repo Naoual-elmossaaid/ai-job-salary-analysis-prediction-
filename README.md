@@ -46,4 +46,4 @@ This project analyzes AI job market data and investigates which factors influenc
 ![ML](ML.png)
 
 ### Linear Regression Coefficients
-![Coef](Top 10 Linear Regression Coefficients.png)
+![Coef](Top-10-Linear-Regression-Coefficients.png)
